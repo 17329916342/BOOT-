@@ -134,7 +134,7 @@
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-webmvc</artifactId>
-      <version>5.2.7.RELEASE</version>
+      <version>5.3.18</version>
     </dependency>
 <!--  MyBatis框架所需的JAR包13个  -->
     <dependency>
